@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python
-- - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
 <!--
 **R3ndrex/R3ndrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
