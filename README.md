@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
