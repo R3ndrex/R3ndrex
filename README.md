@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C#
 - 😄 Pronouns: He/Him
  <img src="https://github-readme-stats.vercel.app/api?username=R3ndrex&theme=deffault&show_icons=true">
 <!--
