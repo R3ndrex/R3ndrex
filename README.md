@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, C#
 - 😄 Pronouns: He/Him
  <img src="https://github-readme-stats.vercel.app/api?username=R3ndrex&theme=deffault&show_icons=true">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsilly-cats.fandom.com%2Fwiki%2FSilly_Cats_Wiki&psig=AOvVaw2LuRr10QXTlIPA3k5WO3wk&ust=1695798649021000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiGpKncx4EDFQAAAAAdAAAAABAE">
 <!--
 **R3ndrex/R3ndrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
