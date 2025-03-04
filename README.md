@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Javascript, HTML, CSS
+- 🌱 I’m currently learning Javascript, HTML, CSS, React
 -  🔭 I’m currently working on Odin Project
  <img src="https://github-readme-stats.vercel.app/api?username=R3ndrex&theme=deffault&show_icons=true">
 <!--
