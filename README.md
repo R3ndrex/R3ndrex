@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Javascript, HTML, CSS, React
+- 🌱 I’m currently learning TypeScript, Redux Toolkit
 -  🔭 I’m currently working on Odin Project
 <!--
 **R3ndrex/R3ndrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
