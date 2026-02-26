@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning TypeScript, Redux Toolkit
+- 🌱 I’m currently learning Node.js, Express
 -  🔭 I’m currently working on Odin Project
 -  📫 How to reach me: @R3ndrex at Telegram
 <!--
