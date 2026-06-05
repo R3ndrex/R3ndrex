@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning Next.js
--  📫 How to reach me: @R3ndrex at Telegram
+-  📫 How to reach me: @R3ndrex at Telegram, https://www.linkedin.com/in/r3ndrex/
 <!--
 **R3ndrex/R3ndrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
